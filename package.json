@@ -1,0 +1,16 @@
+{
+  "name": "websocket-client-verifier",
+  "version": "1.0.0",
+  "description": "WebSocket server that authenticates users and sends data to endpoint every second",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "uuid": "^9.0.0",
+    "ws": "^8.13.0"
+  },
+  "author": "Erfan",
+  "license": "ISC"
+}
